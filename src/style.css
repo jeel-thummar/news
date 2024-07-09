@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+    /* sidebar list  */
+    .sideText{
+        @apply flex gap-1 md:gap-4 py-2  items-center cursor-pointer
+    }
+t}
